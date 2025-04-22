@@ -33,10 +33,10 @@ I created `DataLoader` objects in PyTorch to handle batching and shuffling of th
 - **Test on the Provided Subset:**
     - I used the pre-defined test dataset to measure the model's final performance.
     - I computed test accuracy. The test accuracy was 77%
-    - 
+  
 By following these steps, I developed a strong understanding of transformer-based models and their application in real-world NLP tasks.
 
 ## Code Owners:
 This is a guided project and part of [Udacity](https://www.udacity.com/dashboard)'s course, [Programing Transformers With Pytorch](https://learn.udacity.com/paid-courses/cd13758/lessons/f8eebe7a-536e-4e6e-887a-e178e16fc69f/concepts/6b099a04-620f-47d3-bda6-91767957be31?_gl=1*1cvwsrr*_gcl_aw*R0NMLjE3NDUxMDQ1OTYuQ2p3S0NBandrNDNBQmhCSUVpd0F2dk1FQnpZSzU0NU8wWFNDZ2JWTTIwbHdMRDNLNGR5MEpOaTNJdEZnVmkwV0NIaWJnSWZ2ZFFEWVZSb0N6XzBRQXZEX0J3RQ..*_gcl_au*MTAxMjY1ODUzOS4xNzQyNzU5NTA1*_ga*MTIzOTg3Njc0OS4xNzI3MDUzMzI1*_ga_CF22GKVCFK*MTc0NTI4NzU5My4xMTcuMS4xNzQ1Mjg3NjE4LjM1LjAuMA..&lesson_tab=lesson)
 
-I successfully graduated and passed the course. You can review [my certificate here] (www.udacity.com/certificate/e/4be8a08e-efca-11ef-a83b-a7783436f4ed)😀.
+I successfully graduated and passed the course. You can review [my certificate here](www.udacity.com/certificate/e/4be8a08e-efca-11ef-a83b-a7783436f4ed)😀.
